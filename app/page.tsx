@@ -71,7 +71,7 @@ Tu tienda de confianza
 </div>
 
 <a
-href={https://wa.me/${whatsapp}`}
+href={`https://wa.me/${whatsapp}`}
 target="_blank"
 rel="noopener noreferrer"
 className="rounded-full bg-white px-4 py-2 font-bold text-blue-700 shadow hover:bg-blue-50"
@@ -204,7 +204,7 @@ className="mt-5 inline-block rounded-xl bg-green-500 px-6 py-3 font-bold hover:b
 
 {/* BOTÓN FLOTANTE */}
 <a
-href={https://wa.me/${whatsapp}`}
+href={`https://wa.me/${whatsapp}`}
 target="_blank"
 rel="noopener noreferrer"
 className="fixed bottom-5 right-5 flex h-14 w-14 items-center justify-center rounded-full bg-green-500 text-2xl shadow-xl hover:bg-green-600"
