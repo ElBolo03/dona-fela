@@ -40,11 +40,12 @@ emoji: "🔥",
 ];
 
 const categorias = [
-"Todos",
-"Bicicletas",
-"Lavadoras",
-"Televisores",
-"Electrodomésticos",
+  "Todos",
+  "Electrodomésticos para su hogar",
+  "EcoFlows, Baterías y Sistemas Solares",
+  "Bicicletas",
+  "Aseo y Variedades",
+  "Bebidas y Licores",
 ];
 
 export default function Home() {
