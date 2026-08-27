@@ -118,10 +118,10 @@ Ver productos
 <button
 key={item}
 onClick={() => setCategoria(item)}
-className={whitespace-nowrap rounded-full px-5 py-2 font-semibold transition${
-categoria === item
-? "bg-blue-700 text-white"
-: "bg-white text-blue-700 shadow hover:bg-blue-50"
+className={`whitespace-nowrap rounded-full px-5 py-2 font-semibold transition ${
+  categoria === item
+    ? "bg-blue-700 text-white"
+    : "bg-white text-blue-700 shadow hover:bg-blue-50"
 }`}
 >
 {item}
