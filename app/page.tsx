@@ -44,6 +44,8 @@ const productos = [
   },
 ];
 
+console.log("VERSION NUEVA DONA FELA");
+
 const categorias = [
   "Todos",
   "Electrodomésticos para su hogar",
