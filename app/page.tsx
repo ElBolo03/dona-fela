@@ -212,3 +212,6 @@ className="mt-5 inline-block rounded-xl bg-green-500 px-6 py-3 font-bold hover:b
 >
   💬
 </a>
+</main>
+);
+}
