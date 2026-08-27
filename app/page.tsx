@@ -8,10 +8,8 @@ const productos = [
 {
 nombre: "Bicicleta Infantil 20",
 categoria: "Bicicletas",
-precio: "latex
-___", descripcion: "Bicicleta infantil con accesorios.", emoji: "🚲", }, { nombre: "Lavadora Automática Samsung 9 kg", categoria: "Lavadoras", precio: "
-
-___",
+precio: "latex___",
+descripcion: "Bicicleta infantil con accesorios.", emoji: "🚲", }, { nombre: "Lavadora Automática Samsung 9 kg", categoria: "Lavadoras", precio: "___",
 descripcion: "Lavadora automática Samsung de 9 kg.",
 emoji: "🧺",
 },
