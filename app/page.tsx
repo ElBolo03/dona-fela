@@ -6,6 +6,15 @@ const whatsapp = "54102549";
 
 const productos = [
 {
+  nombre: "EcoFlow DELTA 3 Classic",
+  categoria: "EcoFlow",
+  precio: "$720 USD",
+  descripcion:
+    "Estación de energía portátil de 1800 W, batería LiFePO4 y recarga solar.",
+  imagen: "/productos/ecoflow-delta-3-classic.jpg",
+  emoji: "🔋",
+},
+{
 nombre: "Bicicleta Infantil 20",
 categoria: "Bicicletas",
 precio: "latex___",
@@ -145,8 +154,16 @@ className={`whitespace-nowrap rounded-full px-5 py-2 font-semibold transition ${
 key={producto.nombre}
 className="overflow-hidden rounded-2xl bg-white shadow-md transition hover:-translate-y-1 hover:shadow-xl"
 >
-<div className="flex h-48 items-center justify-center bg-blue-50 text-7xl">
-{producto.emoji}
+<div className="flex h-48 items-center justify-center bg-blue-50">
+  {producto.imagen ? (
+    <img
+      src={producto.imagen}
+      alt={producto.nombre}
+      className="h-full w-full object-contain"
+    />
+  ) : (
+    <span className="text-7xl">{producto.emoji}</span>
+  )}
 </div>
 
 <div className="p-5">
