@@ -204,13 +204,11 @@ className="mt-5 inline-block rounded-xl bg-green-500 px-6 py-3 font-bold hover:b
 
 {/* BOTÓN FLOTANTE */}
 <a
-href={`https://wa.me/${whatsapp}`}
-target="_blank"
-rel="noopener noreferrer"
-className="fixed bottom-5 right-5 flex h-14 w-14 items-center justify-center rounded-full bg-green-500 text-2xl shadow-xl hover:bg-green-600"
-<button
-  type="button"
+  href={`https://wa.me/${whatsapp}`}
+  target="_blank"
+  rel="noopener noreferrer"
   aria-label="WhatsApp"
-  onClick={() => window.open(`https://wa.me/${whatsapp}`, "_blank")}
-  className="fixed bottom-5 right-5 flex h-14 w-14 items-center justify-center rounded-full bg-green-500 text-white shadow-lg"
+  className="fixed bottom-5 right-5 flex h-14 w-14 items-center justify-center rounded-full bg-green-500 text-2xl text-white shadow-lg hover:bg-green-600"
 >
+  💬
+</a>
