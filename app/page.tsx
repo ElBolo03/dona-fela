@@ -11,7 +11,7 @@ const productos = [
     precio: "$720 USD",
     descripcion:
       "Estación de energía portátil de 1800 W, batería LiFePO4 y recarga solar.",
-    imagen: "/productos/ecoflow-delta-3-classic.jpg",
+  imagen: "/productos/ecoflow-delta-3-classic.jpg",
     emoji: "🔋",
   },
   {
