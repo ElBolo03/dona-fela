@@ -48,8 +48,7 @@ categoria === "Todos"
 
 const contactar = (producto: string) => {
 const mensaje = `Hola, estoy interesado/a en ${producto}. ¿Me pueden dar más información?; window.open(https://wa.me/ {encodeURIComponent(mensaje)}`,
-"_blank"
-);
+"_blank");
 };
 
 return (
