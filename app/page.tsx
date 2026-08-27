@@ -16,10 +16,8 @@ emoji: "🧺",
 {
 nombre: "Televisor",
 categoria: "Televisores",
-precio: "latex
-___", descripcion: "Televisor disponible. Pregunta por modelos.", emoji: "📺", }, { nombre: "Olla Arrocera 2.2 L", categoria: "Electrodomésticos", precio: "
-
-___",
+precio: "latex___",
+descripcion: "Televisor disponible. Pregunta por modelos.", emoji: "📺", }, { nombre: "Olla Arrocera 2.2 L", categoria: "Electrodomésticos", precio: "___",
 descripcion: "Olla arrocera All Novu de 2.2 litros.",
 emoji: "🍚",
 },
