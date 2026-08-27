@@ -56,7 +56,7 @@
           </p>
 
           <a
-            href={https://wa.me/${whatsapp}}
+            href={`https://wa.me/${whatsapp}`}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-5 inline-block rounded-xl bg-green-500 px-6 py-3 font-bold hover:bg-green-600"
