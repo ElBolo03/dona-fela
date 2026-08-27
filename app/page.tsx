@@ -7,7 +7,7 @@ const whatsapp = "54102549";
 const productos = [
 {
   nombre: "EcoFlow DELTA 3 Classic",
-  categoria: "EcoFlow",
+  categoria: "EcoFlows, Baterías y Sistemas Solares",
   precio: "$720 USD",
   descripcion:
     "Estación de energía portátil de 1800 W, batería LiFePO4 y recarga solar.",
@@ -17,23 +17,23 @@ const productos = [
 {
 nombre: "Bicicleta Infantil 20",
 categoria: "Bicicletas",
-precio: "latex___",
+precio: "$85",
 descripcion: "Bicicleta infantil con accesorios.", emoji: "🚲", }, { nombre: "Lavadora Automática Samsung 9 kg", categoria: "Lavadoras", precio: "___",
 descripcion: "Lavadora automática Samsung de 9 kg.",
 emoji: "🧺",
 },
 {
 nombre: "Televisor",
-categoria: "Televisores",
-precio: "___",
-descripcion: "Televisor disponible. Pregunta por modelos.", emoji: "📺", }, { nombre: "Olla Arrocera 2.2 L", categoria: "Electrodomésticos", precio: "___",
+categoria: "Electrodomésticos para su hogar",
+precio: "$155",
+descripcion: "Televisor disponible. Pregunta por modelos.", emoji: "📺", }, { nombre: "Olla Arrocera 2.2 L", categoria: "Electrodomésticos", precio: "$155",
 descripcion: "Olla arrocera All Novu de 2.2 litros.",
 emoji: "🍚",
 },
 {
 nombre: "Fogón de Gas 1 Hornilla",
 categoria: "Electrodomésticos",
-precio: "$`___",
+precio: "$22",
 descripcion: "Fogón de gas de una hornilla con magneto.",
 emoji: "🔥",
 },
